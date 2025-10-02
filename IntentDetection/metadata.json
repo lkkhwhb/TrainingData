@@ -6,7 +6,7 @@
   "description": "High quality diverse training samples to train neural network on how to understand natural language and predict intents.",
   "data_info": {
     "training_examples": 5402,
-    "validation_examples": 150,
+    "validation_examples": 590,
     "contains_duplicate": false,
     "is_clean": true,
     "is_data_checked": true,
