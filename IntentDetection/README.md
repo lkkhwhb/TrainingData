@@ -15,9 +15,9 @@ This dataset is designed to support training and evaluation of neural network mo
 ---
 
 ## Dataset Summary
-- **Total Examples:** 5,552  
+- **Total Examples:** 5,992
 - **Training Examples:** 5,402  
-- **Validation Examples:** 150  
+- **Validation Examples:** 590
 - **Number of Classes:** 10  
 - **Duplicates:** None  
 - **Data Cleaned & Verified:** Yes  
