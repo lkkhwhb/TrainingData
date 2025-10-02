@@ -1,0 +1,44 @@
+{
+  "title": "Intent Detection Data",
+  "author": "Bhargav Barman",
+  "mail": "lkkhwhb@gmail.com",
+  "github": "lkkhwhb",
+  "description": "High quality diverse training samples to train neural network on how to understand natural language and predict intents.",
+  "data_info": {
+    "training_examples": 5402,
+    "validation_examples": 150,
+    "contains_duplicate": false,
+    "is_clean": true,
+    "is_data_checked": true,
+    "num_classes": 10,
+    "suitable_for": "small-basic-models",
+    "language": "eng",
+    "training_data_file": "./Tdata.json",
+    "validation_data_file": "./Vdata.json"
+  },
+  "class_distribution_training": {
+    "greetings": 550,
+    "proposal": 475,
+    "insult": 533,
+    "question": 540,
+    "order": 519,
+    "request": 456,
+    "farewell": 499,
+    "apology": 541,
+    "negation_disagreement": 573,
+    "confusion_uncertainty": 716
+  },
+  "class_distribution_validation": {
+    "greetings": 59,
+    "proposal": 59,
+    "insult": 59,
+    "question": 59,
+    "order": 59,
+    "request": 59,
+    "farewell": 59,
+    "apology": 59,
+    "negation_disagreement": 59,
+    "confusion_uncertainty": 59
+  },
+  "total_examples": 5552
+}
