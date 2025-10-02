@@ -1,5 +1,4 @@
 {
-  "intents": {
     "greetings": [
       "How's it hanging?",
       "What's the good word?",
@@ -610,5 +609,4 @@
       "This doesn't add up.",
       "I'm still weighing the pros and cons."
     ]
-  }
 }
